@@ -1,1 +1,6 @@
 # assignment_two_dev_academy
+In this repo, there are two files, assignment_three.ipynb and assignment_four.ipynb. 
+assignment_three.ipynb prompts the user for a series of inputs such as a singular noun, an adjective, etc. Then,
+once all the information has been inputted, the program takes that data and place it into a premade story. 
+To do create this program, I used the print function to welcome the user to the game and to explain the instructions. I also used the input function to prompt the user to enter the inputs (noun, adjective etc). I used a while loop to ensure that the user could quit at any time. Honestly, this was the part that tricked me out, as I initially didn't do the loop properly. I used an f string to piece the story altogether.
+
